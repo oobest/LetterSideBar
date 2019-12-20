@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="letter_text_size">12sp</dimen>
+    <dimen name="latter_padding">4dp</dimen>
+    <dimen name="frame_line_width">1dp</dimen>
+</resources>
