@@ -1,6 +1,9 @@
 # LetterSideBar
 
-###第一步布局
+###第一步数据类实现ILetter接口
+
+###第二步布局
+
 '''
  <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"
@@ -33,7 +36,8 @@
         android:visibility="gone" />
 '''
 
-###第二部绑定
+###第三步绑定
+
 '''
   recyclerView.bindLetterSideBar(
             letterSideBar = letter_side_bar,
